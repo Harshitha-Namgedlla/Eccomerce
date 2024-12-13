@@ -82,8 +82,5 @@ To get started with the project locally, follow these steps:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-Feel free to modify or expand upon this README as needed to fit your project’s specific requirements.
 
 
